@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: nttimeretrieval
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: Time
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: 
+Implementation-Timestamp: 2023-12-30T22:49:00+0000
+
